@@ -1,0 +1,273 @@
+{
+    "menu": [
+        {
+            "text": "About Me",
+            "href": "about"
+        },
+        {
+            "text": "Projects",
+            "href": "projects"
+        },
+        {
+            "text": "Contact",
+            "href": "contact"
+        }
+    ],
+    "brand": {
+        "name": "#kodekracker",
+        "img_src": "images/my-avatar-min.png"
+    },
+    "owner": {
+        "handle_name": "@spratapakshay",
+        "name": "Akshay Pratap Singh",
+        "img_src": "images/my-avatar-min.png",
+        "interest": "Software Development and Data Science",
+        "hire_me": false,
+        "highlighted_skills": [
+            {
+                "text": "Pythonista",
+                "fa_class": "fa-code"
+            },
+            {
+                "text": "Data Science Enthusiast",
+                "fa_class": "fa-line-chart"
+            },
+            {
+                "text": "Software Developer",
+                "fa_class": "fa-trophy"
+            },
+            {
+                "text": "Polyglot and Avid Programmer",
+                "fa_class": "fa-terminal"
+            }
+        ],
+        "about": "Software Developer and Data Science Enthusiast who loves to write software to build great products and help businesses succeed with their goals. I am proficient in development of a wide variety of web applications. I am most passionate about developing web applications using Python, NodeJS, Javascript, ReactJs, AngularJS, Mongodb and various other bleeding edge technologies. I can also speak to databases and make servers do stuff. I like working on scalability, performance, design, and great user experiences. I have keen interest in Data Science related projects of Data Mining, Data Analysis &amp; Machine Learning. During my spare time, i love to read technology blogs and learn new languages and technology.",
+        "address": "Delhi, India",
+        "mobile_number_image_src": "images/mobilenumber.png",
+        "timeline": [
+            {
+                "event_info": "Graduated HighSchool",
+                "event_year": "2008"
+            },
+            {
+                "event_info": "Graduated Higher Secondary School",
+                "event_year": "2010"
+            },
+            {
+                "event_info": "Internship in Ophio",
+                "event_year": "2014"
+            },
+            {
+                "event_info": "Graduated from SMVDU",
+                "event_year": "2015"
+            },
+            {
+                "event_info": "Software Developer in 91springboard",
+                "event_year": "2015"
+            },
+            {
+                "event_info": "Senior Software Engineer in Data Peace",
+                "event_year": "2017"
+            }
+        ],
+        "skills": [
+            {
+                "name": "CSS",
+                "percent": "60"
+            },
+            {
+                "name": "HTML",
+                "percent": "80"
+            },
+            {
+                "name": "JS",
+                "percent": "70"
+            },
+            {
+                "name": "Python",
+                "percent": "70"
+            },
+            {
+                "name": "NodeJS",
+                "percent": "70"
+            }
+        ],
+        "favourite_quote": {
+            "text": "Intelligence is the ability to avoid doing work, yet getting the work done.",
+            "author": "Linus Torvalds"
+        },
+        "projects": [
+            {
+                "name": "Titiksha 2012",
+                "img_src": "images/ref1.png",
+                "description": "Titiksha is a Technical Festival of Shri Mata Vaishno Devi University , located in Katra , Jammu (Jammu & Kashmir,India)",
+                "duration": {
+                    "time": "1 Month",
+                    "start_date": "March, 2012",
+                    "end_date": "March, 2012"
+                },
+                "team": "Saurabh Kumar, Akshay Pratap Singh, Rishabh Shukla",
+                "source_url": "https://github.com/smvdu/Titiksha-website"
+            },
+            {
+                "name": "Resurgence 2012",
+                "img_src": "images/ref2.png",
+                "description": "Resurgence is a Cultural and Spots Festival of Shri Mata Vaishno Devi University , located in Katra , Jammu (Jammu & Kashmir).",
+                "duration": {
+                    "time": "1 Month",
+                    "start_date": "April, 2012",
+                    "end_date": "April, 2012"
+                },
+                "team": "Saurabh Kumar, Akshay Pratap Singh, Rishabh Shukla",
+                "source_url": "https://github.com/smvdu/Resurgence-website"
+            },
+            {
+                "name": "Titiksha 2013",
+                "img_src": "images/ref3.png",
+                "description": "Titiksha is a Technical Festival of Shri Mata Vaishno Devi University , located in Katra , Jammu (Jammu & Kashmir,India)",
+                "duration": {
+                    "time": "1 Month",
+                    "start_date": "September, 2012",
+                    "end_date": "September, 2012"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla, Sunny Kumar",
+                "source_url": "https://github.com/smvdu/Titiksha-website"
+            },
+            {
+                "name": "Resurgence 2013",
+                "img_src": "images/ref4.png",
+                "description": "Resurgence is a Cultural and Spots Festival of Shri Mata Vaishno Devi University , located in Katra , Jammu (Jammu & Kashmir).",
+                "duration": {
+                    "time": "1 Month",
+                    "start_date": "April, 2013",
+                    "end_date": "April, 2013"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla, Sunny Kumar",
+                "source_url": "https://github.com/smvdu/Resurgence-website"
+            },
+            {
+                "name": "SIIN (Student Internet Information Network)",
+                "img_src": "images/ref5.png",
+                "description": "This is a software developed for daily student attendance in schools, collages and institutes. If facilitates to access the attendance information of a particular student in a particular class. The information is sorted by the operators, which will be provided by the teacher for a particular class. This system will also help in evaluating attendance eligibility criteria of a student. \n The purpose of developing Student Internet Information Network is to computerized the tradition way of taking attendance. Another purpose for developing this software is to generate the report automatically at the end of the session or in the between of the session.",
+                "duration": {
+                    "time": "5 Month",
+                    "start_date": "January, 2013",
+                    "end_date": "May, 2013"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla, Sunny Kumar",
+                "source_url": "https://github.com/KodeKracker"
+            },
+            {
+                "name": "SMVDU Online-Judge",
+                "img_src": "images/ref6.png",
+                "description": "SMVDU Online-Judge is a platform for organizing the competitive programming contest for college , where user can solves a problems in C/C++/JAVA/Python and it shows a leaderboard of a Contest.",
+                "duration": {
+                    "time": "5 Month",
+                    "start_date": "August, 2013",
+                    "end_date": "December, 2013"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla, Sunny Kumar, Aman Kumar",
+                "source_url": "https://github.com/KodeKracker/Smvdu-Online-Judge"
+            },
+            {
+                "name": "Survey Board",
+                "img_src": "images/ref1.png",
+                "description": "Survey Board is an online platform for organizing a survey/feedback .",
+                "duration": {
+                    "time": "5 Month",
+                    "start_date": "January, 2014",
+                    "end_date": "May, 2014"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla",
+                "source_url": "https://github.com/KodeKracker/Online-Survey-System"
+            },
+            {
+                "name": "Rotto Link Scraper",
+                "img_src": "images/ref2.png",
+                "description": "A web crawler/scraper to find the broken links in the targeted seed url based on the keywords matched around that broken links.",
+                "duration": {
+                    "time": "2 Month",
+                    "start_date": "June, 2014",
+                    "end_date": "July, 2014"
+                },
+                "team": "Akshay Pratap Singh, Sunny Kumar",
+                "source_url": "https://github.com/KodeKracker/Rotto-Links-Scraper"
+            },
+            {
+                "name": "Image Merging Web REST API",
+                "img_src": "images/ref3.png",
+                "description": "A flask based web api to merge a two PNG images(i.e background and foreground) and get the merged image in base64 format.",
+                "duration": {
+                    "time": "5 Days",
+                    "start_date": "June, 2014",
+                    "end_date": "June, 2014"
+                },
+                "team": "Akshay Pratap Singh",
+                "source_url": "https://github.com/KodeKracker/Image-Merging-API"
+            },
+            {
+                "name": "Ophio Foodly",
+                "img_src": "images/ref4.png",
+                "description": "An automation of Ophio Daily Food Management. I worked on firebase connectivity , frontend in AngularJs and made a python mailer scheduler for the web app.",
+                "duration": {
+                    "time": "1 Month",
+                    "start_date": "July, 2014",
+                    "end_date": "July, 2014"
+                },
+                "team": "Akshay Pratap Singh, Sunny Kumar, Vikrant Pogula",
+                "source_url": "https://github.com/KodeKracker/Ophio-Foodly"
+            },
+            {
+                "name": "Software Freedom Day (2014)",
+                "img_src": "images/ref5.png",
+                "description": "A website of festival to celebrate Software Freedom Day and to promote open source.",
+                "duration": {
+                    "time": "2 Month",
+                    "start_date": "August, 2014",
+                    "end_date": "September, 2014"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla, Sunny Kumar",
+                "source_url": "https://github.com/KodeKracker/sfd-smvdu"
+            },
+            {
+                "name": "Data Tag",
+                "img_src": "images/ref6.png",
+                "description": "Data-Tag is an evolved system to classify textual data and web pages using NLP techniques, rather than not so intelligent Keyword-based Tagging. It uses NLTK to categorize data tokens into various \"Word-Classes\" and then using Open Data from Wikipedia applies Word-Sense Disambiguation algorithm to \"smartly\" tag the input data.",
+                "duration": {
+                    "time": "5 Month",
+                    "start_date": "August, 2014",
+                    "end_date": "December, 2014"
+                },
+                "team": "Akshay Pratap Singh, Rishabh Shukla, Sunny Kumar",
+                "source_url": "https://github.com/KodeKracker/data-tag"
+            }
+        ]
+    },
+    "social": [
+        {
+            "name": "Facebook",
+            "profile_url": "https://www.facebook.com/spratapakshay",
+            "fa_class": "fa-facebook"
+        },
+        {
+            "name": "Twitter",
+            "profile_url": "https://twitter.com/spratapakshay",
+            "fa_class": "fa-twitter"
+        },
+        {
+            "name": "Linkedin",
+            "profile_url": "https://in.linkedin.com/in/spratapakshay",
+            "fa_class": "fa-linkedin"
+        },
+        {
+            "name": "Github",
+            "profile_url": "https://github.com/kodekracker",
+            "fa_class": "fa-github"
+        },
+        {
+            "name": "Stackoverflow",
+            "profile_url": "https://stackoverflow.com/cv/kodekracker",
+            "fa_class": "fa-stack-overflow"
+        }
+    ]
+}
